@@ -1,0 +1,5 @@
+A= int(input("Ingresa tu valor A:"))
+B= int(input("Ingresa tu valor B:"))
+C= int(input("Ingresa tu valor C:"))
+D= int(input("Ingresa tu valor D:"))
+print(f"Los nuevos valores son: {D},{C},{B},{A}")
