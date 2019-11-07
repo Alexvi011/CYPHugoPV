@@ -1,5 +1,5 @@
 #diccionarios {'llave':'valor'}
-
+#Grupo de datos agrupados 
 alumno={'num_cta':'317031522',
         'Nombre':('Alejandro','Perez','Vite'),
         'Semestre':1,
